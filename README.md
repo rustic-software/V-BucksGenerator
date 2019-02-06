@@ -1,2 +1,2 @@
 # V-BucksGenerator
-This V-Bucks Generator is fake. It's simply a joke program.
+This is not a real program! I made this as a way to poke fun at Fortnight players.

